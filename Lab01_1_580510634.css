@@ -1,0 +1,20 @@
+
+body{
+    text-align: center;
+}
+.sat{
+    color: red;
+}
+.sun{
+    color: red;
+}
+table{
+    padding: 15px;
+    display: inline-block;
+}
+td{
+    color: blue;
+}
+.birth{
+    color: green;
+}
